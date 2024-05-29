@@ -2,6 +2,7 @@ class Solution {
 public:
     vector<string> fizzBuzz(int n) {
         vector<string> ret;
+        ret.reserve(n);
         for (int i = 1; i <= n; i++) {
             if (i % 15 == 0)
                 ret.push_back("FizzBuzz");
