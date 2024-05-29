@@ -9,9 +9,9 @@ public:
             char a;
             for (int i = 0; i < strs.size() - 1; i++) {
                 if (!strs[i][cnt])
-	                return ret;
-                if (strs[i][cnt] == '\0')
-	                return ret;
+                    return ret;
+                if (strs[i] == "")
+                    return ret;
                 if (strs[i][cnt] == strs[i + 1][cnt]) {
                     a = strs[i][cnt];
                 }
