@@ -20,4 +20,16 @@
 |  |
 | ------- |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+## Math
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/namhoon-kim97/LeetCode/tree/master/0043-multiply-strings) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/namhoon-kim97/LeetCode/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/namhoon-kim97/LeetCode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
