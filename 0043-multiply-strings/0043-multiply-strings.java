@@ -21,7 +21,7 @@ class Solution {
     String multiple(String s, int time, int idx){
         StringBuilder sb = new StringBuilder();
         for (int i = 0; i < idx - 1; i++)
-            sb.append("0");
+            sb.append('0');
         
         int carry = 0;
         for (int i = s.length() - 1; i >=  0; i--){
@@ -40,8 +40,11 @@ class Solution {
         int n2 = num2.length();
         String res = "";
         for (int i = n1 - 1; i >= 0; i--){
-            res = add(res, multiple(num2, num1.charAt(i) - '0', n1 - i));
+            int digit = num1.charAt(i) - '0';
+            if (digit == 0) continue;
+            String part = multiple(num2, digit, n1 - i);
+            res = res.isEmpty() ? part : add(res, part);
         }
-        return res;
+        return res.isEmpty() ? "0" : res;
     }
 }
