@@ -8,7 +8,7 @@ class Solution {
             if (i == curEnd){
                 steps++;
                 curEnd = farthest;
-                if (curEnd >= n) break;
+                if (curEnd >= n - 1) break;
             }
         }
         return steps;
