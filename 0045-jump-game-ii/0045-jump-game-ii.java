@@ -1,6 +1,6 @@
 class Solution {
     public int jump(int[] nums) {
-        if (nums.length == 1) return 0;
+        //if (nums.length == 1) return 0;
         int cnt = 0;
         for (int i = nums.length - 1; i > 0; ){
             boolean flag = false;
