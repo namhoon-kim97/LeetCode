@@ -1,36 +1,49 @@
 class Solution {
     public void setZeroes(int[][] matrix) {
-        Queue<int[]> q = new LinkedList<>();
         int n = matrix.length;
         int m = matrix[0].length;
-        for (int i = 0; i <n; i++)
-            for (int j = 0; j < m; j++)
-                if (matrix[i][j] == 0) q.add(new int[]{i,j});    
-
-        while(!q.isEmpty()){
-            int[] cur = q.poll();
-            int x = cur[0];
-            int y = cur[1];
-            int nx = x;
-            while (nx >= 0){
-                matrix[nx][y] = 0;
-                nx--;
+        boolean firstRow = false;
+        boolean firstCol = false;
+        for (int i = 0; i < n; i++)
+            if (matrix[i][0] == 0) {
+                firstRow = true;
+                break;
             }
-            nx = x;
-            while (nx < n){
-                matrix[nx][y] = 0;
-                nx++;
-            }
-            int ny = y;
-            while (ny >= 0){
-                matrix[x][ny] = 0;
-                ny--;
-            }
-            ny = y;
-            while (ny < m){
-                matrix[x][ny] = 0;
-                ny++;
+        
+        for (int i = 0; i < m; i++){
+            if (matrix[0][i] == 0){
+                firstCol = true;
+                break;
             }
         }
+        for (int i = 1; i < n; i++){
+            for (int j = 0; j < m; j++){
+                if (matrix[i][j] == 0){
+                    matrix[i][0] = 0;
+                    matrix[0][j] = 0;
+                }
+            }
+        }
+        for (int i = 1; i < n; i++){
+            if (matrix[i][0] == 0){
+                for (int j = 1; j < m; j++){
+                    matrix[i][j] = 0;
+                }
+            }
+        }
+
+        for (int i = 1; i < m; i++){
+            if (matrix[0][i] == 0){
+                for (int j = 1; j < n; j++){
+                    matrix[j][i] = 0;
+                }
+            }
+        }
+        if (firstRow)
+            for (int i = 0; i < n; i++)
+                matrix[i][0] = 0;
+        if (firstCol)
+            for (int i = 0; i < m; i++)
+                matrix[0][i] = 0;
     }
 }
