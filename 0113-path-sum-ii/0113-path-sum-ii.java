@@ -18,16 +18,14 @@ class Solution {
     List<Integer> temp = new ArrayList<>();
     void dfs(TreeNode cur, int target){
         if (cur == null) return;
+        temp.add(cur.val);
         if (cur.left == null && cur.right == null){
             if (cur.val == target){
-                temp.add(cur.val);
                 res.add(new ArrayList<>(temp));
-                temp.remove(temp.size() - 1);
-                return;
             }
+            temp.remove(temp.size() - 1);
             return;
         }
-        temp.add(cur.val);
         dfs(cur.left, target - cur.val);
         dfs(cur.right, target - cur.val);
         temp.remove(temp.size() - 1);
