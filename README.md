@@ -51,6 +51,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/namhoon-kim97/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/namhoon-kim97/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0146-lru-cache](https://github.com/namhoon-kim97/LeetCode/tree/master/0146-lru-cache) |
 ## Backtracking
 |  |
 | ------- |
@@ -79,4 +80,16 @@
 | ------- |
 | [0112-path-sum](https://github.com/namhoon-kim97/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0113-path-sum-ii) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/namhoon-kim97/LeetCode/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/namhoon-kim97/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/namhoon-kim97/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
