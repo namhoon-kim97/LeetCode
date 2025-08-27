@@ -1,34 +1,57 @@
 class LRUCache {
-    Queue<Integer> q = new LinkedList<>();
-    Map<Integer, Integer> m = new HashMap<>();
+    class Node {
+        int k,v;
+        Node prev, next;
+        Node(int k, int v) {this.k = k; this.v = v;}
+    }
+    Map<Integer, Node> m = new HashMap<>();
     int capacity = 0;
+    Node head = new Node(0,0);
+    Node tail = new Node(0,0);
 
     public LRUCache(int capacity) {
         this.capacity = capacity;
+        head.next = tail; tail.prev = head;
     }
     
     public int get(int key) {
-        if (m.containsKey(key)){
-            q.remove(key);
-            q.add(key);
-            return m.get(key);
-        }
-        return -1;
+        Node n = m.get(key);
+        if (n == null) return -1;
+        moveToFront(n);
+        return n.v;
     }
     
     public void put(int key, int value) {
-        if (m.containsKey(key)){
-            m.put(key, value);
-            q.remove(key);
-            q.add(key);
+        if (capacity == 0) return;
+        Node n = m.get(key);
+        if (n != null){
+            n.v = value;
+            moveToFront(n);
             return;
         }
-        q.add(key);
-        if (capacity < q.size()){
-            int cur = q.poll();
-            m.remove(cur);
+        if (m.size() == capacity){
+            Node lru = tail.prev;
+            remove(lru);
+            m.remove(lru.k);
         }
-        m.put(key, value);    
+        Node nn = new Node(key, value);
+        addFirst(nn);
+        m.put(key, nn);
+    }
+
+    void moveToFront(Node n){
+        remove(n);
+        addFirst(n);
+    }
+    void remove(Node n){
+        n.prev.next = n.next;
+        n.next.prev = n.prev;
+    }
+    void addFirst(Node n){
+        n.next = head.next;
+        head.next.prev = n;
+        n.prev = head;
+        head.next = n;
     }
 }
 
