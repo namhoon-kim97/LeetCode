@@ -4,6 +4,7 @@ class Solution {
         if (i == n) return true;
         if (dp[i] != null) return dp[i];
         for (String word : wordDict) {
+            if (word.length() + i > n) continue;
             if (s.startsWith(word, i)) {
                 if (dfs(i + word.length(), wordDict,s, dp)) {
                     return dp[i] = true;
