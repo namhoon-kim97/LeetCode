@@ -10,6 +10,7 @@
 | [0051-n-queens](https://github.com/namhoon-kim97/LeetCode/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/namhoon-kim97/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/namhoon-kim97/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0139-word-break](https://github.com/namhoon-kim97/LeetCode/tree/master/0139-word-break) |
 | [0164-maximum-gap](https://github.com/namhoon-kim97/LeetCode/tree/master/0164-maximum-gap) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Two Pointers
@@ -39,6 +40,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/namhoon-kim97/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/namhoon-kim97/LeetCode/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/namhoon-kim97/LeetCode/tree/master/0139-word-break) |
 ## Simulation
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0045-jump-game-ii) |
+| [0139-word-break](https://github.com/namhoon-kim97/LeetCode/tree/master/0139-word-break) |
 ## Greedy
 |  |
 | ------- |
@@ -56,6 +59,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/namhoon-kim97/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/namhoon-kim97/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/namhoon-kim97/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/namhoon-kim97/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/namhoon-kim97/LeetCode/tree/master/0146-lru-cache) |
 ## Backtracking
@@ -108,4 +112,12 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/namhoon-kim97/LeetCode/tree/master/0164-maximum-gap) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/namhoon-kim97/LeetCode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/namhoon-kim97/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
