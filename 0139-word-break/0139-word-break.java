@@ -1,6 +1,6 @@
 class Solution {
     int n = 0;
-    boolean dfs(int i, Set<String> wordDict, String s, Boolean[] dp){
+    boolean dfs(int i, List<String> wordDict, String s, Boolean[] dp){
         if (i == n) return true;
         if (dp[i] != null) return dp[i];
         for (String word : wordDict) {
@@ -14,9 +14,8 @@ class Solution {
     }
 
     public boolean wordBreak(String s, List<String> wordDict) {
-        Set<String> dict = new HashSet<>(wordDict);
         n = s.length();
         Boolean[] dp = new Boolean[n + 1];
-        return dfs(0, dict,s,dp);
+        return dfs(0, wordDict,s,dp);
     }
 }
