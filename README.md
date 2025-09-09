@@ -15,6 +15,7 @@
 | [0221-maximal-square](https://github.com/namhoon-kim97/LeetCode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/namhoon-kim97/LeetCode/tree/master/0283-move-zeroes) |
+| [0413-arithmetic-slices](https://github.com/namhoon-kim97/LeetCode/tree/master/0413-arithmetic-slices) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Two Pointers
 |  |
@@ -58,6 +59,7 @@
 | [0045-jump-game-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0045-jump-game-ii) |
 | [0139-word-break](https://github.com/namhoon-kim97/LeetCode/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/namhoon-kim97/LeetCode/tree/master/0221-maximal-square) |
+| [0413-arithmetic-slices](https://github.com/namhoon-kim97/LeetCode/tree/master/0413-arithmetic-slices) |
 ## Greedy
 |  |
 | ------- |
@@ -134,4 +136,8 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0413-arithmetic-slices](https://github.com/namhoon-kim97/LeetCode/tree/master/0413-arithmetic-slices) |
 <!---LeetCode Topics End-->
