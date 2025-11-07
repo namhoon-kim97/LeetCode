@@ -19,7 +19,6 @@ class Solution {
                 int a = nums.pollLast();
                 int b = nums.pollLast();
                 ans = cal(b,a,t);
-                System.out.println(ans);
                 nums.addLast(ans);
             }
         }
