@@ -14,28 +14,44 @@
  * }
  */
 class Solution {
-    TreeNode first, second, prev;
-    void dfs(TreeNode cur){
-        if (cur == null) return;
-        dfs(cur.left);
-        if (prev != null){
-            if (cur.val < prev.val){
-                if (first == null){
-                    first = prev;
+    public void recoverTree(TreeNode root) {
+        TreeNode first = null;
+        TreeNode second = null;
+        TreeNode prev = null;
+        TreeNode cur = root;
+
+        while (cur != null){
+            if (cur.left == null){
+                if (prev != null && prev.val > cur.val){
+                    if (first == null)
+                        first = prev;
                     second = cur;
+                }
+                prev = cur;
+                cur = cur.right;
+            } else {
+                TreeNode pre = cur.left;
+                while (pre.right != null  && pre.right != cur)
+                    pre = pre.right;
+                if (pre.right == null){
+                    pre.right = cur;
+                    cur = cur.left;
                 } else {
-                    second = cur;
+                    pre.right = null;
+                    if (prev != null && prev.val > cur.val){
+                        if (first == null)
+                            first = prev;
+                        second = cur;
+                    }
+                    prev = cur;
+                    cur = cur.right;
                 }
             }
         }
-        prev = cur;
-        dfs(cur.right);
-    }
-    public void recoverTree(TreeNode root) {
-        dfs(root);
-        System.out.println(first.val + " " + second.val);
-        int temp = first.val;
-        first.val = second.val;
-        second.val = temp;
+        if (first != null && second != null){
+            int temp = first.val;
+            first.val = second.val;
+            second.val = temp;
+        }
     }
 }
