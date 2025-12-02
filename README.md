@@ -17,6 +17,7 @@
 | [0139-word-break](https://github.com/namhoon-kim97/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/namhoon-kim97/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/namhoon-kim97/LeetCode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/namhoon-kim97/LeetCode/tree/master/0169-majority-element) |
 | [0221-maximal-square](https://github.com/namhoon-kim97/LeetCode/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/namhoon-kim97/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -41,6 +42,7 @@
 | [0049-group-anagrams](https://github.com/namhoon-kim97/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/namhoon-kim97/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/namhoon-kim97/LeetCode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/namhoon-kim97/LeetCode/tree/master/0169-majority-element) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
@@ -90,6 +92,7 @@
 | [0139-word-break](https://github.com/namhoon-kim97/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/namhoon-kim97/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/namhoon-kim97/LeetCode/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/namhoon-kim97/LeetCode/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -157,6 +160,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/namhoon-kim97/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/namhoon-kim97/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sliding Window
@@ -189,4 +193,8 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/namhoon-kim97/LeetCode/tree/master/0099-recover-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/namhoon-kim97/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
