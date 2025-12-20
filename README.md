@@ -25,6 +25,7 @@
 | [0221-maximal-square](https://github.com/namhoon-kim97/LeetCode/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/namhoon-kim97/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0274-h-index](https://github.com/namhoon-kim97/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/namhoon-kim97/LeetCode/tree/master/0283-move-zeroes) |
 | [0413-arithmetic-slices](https://github.com/namhoon-kim97/LeetCode/tree/master/0413-arithmetic-slices) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -48,6 +49,7 @@
 | [0088-merge-sorted-array](https://github.com/namhoon-kim97/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/namhoon-kim97/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/namhoon-kim97/LeetCode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/namhoon-kim97/LeetCode/tree/master/0274-h-index) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
@@ -208,4 +210,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/namhoon-kim97/LeetCode/tree/master/0169-majority-element) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/namhoon-kim97/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
