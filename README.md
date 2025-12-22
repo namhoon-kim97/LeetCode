@@ -27,6 +27,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/namhoon-kim97/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/namhoon-kim97/LeetCode/tree/master/0283-move-zeroes) |
+| [0380-insert-delete-getrandom-o1](https://github.com/namhoon-kim97/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0413-arithmetic-slices](https://github.com/namhoon-kim97/LeetCode/tree/master/0413-arithmetic-slices) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Two Pointers
@@ -64,6 +65,7 @@
 | [0067-add-binary](https://github.com/namhoon-kim97/LeetCode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/namhoon-kim97/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/namhoon-kim97/LeetCode/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/namhoon-kim97/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 | [0141-linked-list-cycle](https://github.com/namhoon-kim97/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/namhoon-kim97/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/namhoon-kim97/LeetCode/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/namhoon-kim97/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Backtracking
 |  |
 | ------- |
@@ -150,6 +153,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/namhoon-kim97/LeetCode/tree/master/0146-lru-cache) |
+| [0380-insert-delete-getrandom-o1](https://github.com/namhoon-kim97/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -214,4 +218,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/namhoon-kim97/LeetCode/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/namhoon-kim97/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
