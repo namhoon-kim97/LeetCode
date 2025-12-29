@@ -43,6 +43,7 @@
 | [0165-compare-version-numbers](https://github.com/namhoon-kim97/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/namhoon-kim97/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/namhoon-kim97/LeetCode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/namhoon-kim97/LeetCode/tree/master/0392-is-subsequence) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
@@ -80,6 +81,7 @@
 | [0125-valid-palindrome](https://github.com/namhoon-kim97/LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/namhoon-kim97/LeetCode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/namhoon-kim97/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0392-is-subsequence](https://github.com/namhoon-kim97/LeetCode/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/namhoon-kim97/LeetCode/tree/master/0139-word-break) |
 | [0221-maximal-square](https://github.com/namhoon-kim97/LeetCode/tree/master/0221-maximal-square) |
+| [0392-is-subsequence](https://github.com/namhoon-kim97/LeetCode/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/namhoon-kim97/LeetCode/tree/master/0413-arithmetic-slices) |
 ## Greedy
 |  |
