@@ -81,6 +81,7 @@
 | [0125-valid-palindrome](https://github.com/namhoon-kim97/LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/namhoon-kim97/LeetCode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/namhoon-kim97/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0383-ransom-note](https://github.com/namhoon-kim97/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/namhoon-kim97/LeetCode/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
@@ -117,6 +118,7 @@
 | [0146-lru-cache](https://github.com/namhoon-kim97/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/namhoon-kim97/LeetCode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/namhoon-kim97/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/namhoon-kim97/LeetCode/tree/master/0383-ransom-note) |
 ## Backtracking
 |  |
 | ------- |
@@ -222,6 +224,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/namhoon-kim97/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/namhoon-kim97/LeetCode/tree/master/0383-ransom-note) |
 ## Counting Sort
 |  |
 | ------- |
