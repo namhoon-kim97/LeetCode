@@ -23,6 +23,7 @@
 | [0169-majority-element](https://github.com/namhoon-kim97/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/namhoon-kim97/LeetCode/tree/master/0189-rotate-array) |
 | [0221-maximal-square](https://github.com/namhoon-kim97/LeetCode/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/namhoon-kim97/LeetCode/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/namhoon-kim97/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/namhoon-kim97/LeetCode/tree/master/0274-h-index) |
