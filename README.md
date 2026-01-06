@@ -31,6 +31,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/namhoon-kim97/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0413-arithmetic-slices](https://github.com/namhoon-kim97/LeetCode/tree/master/0413-arithmetic-slices) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [0290-word-pattern](https://github.com/namhoon-kim97/LeetCode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/namhoon-kim97/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/namhoon-kim97/LeetCode/tree/master/0383-ransom-note) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
