@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/namhoon-kim97/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/namhoon-kim97/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/namhoon-kim97/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/namhoon-kim97/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/namhoon-kim97/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/namhoon-kim97/LeetCode/tree/master/0049-group-anagrams) |
@@ -60,6 +61,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/namhoon-kim97/LeetCode/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Math
