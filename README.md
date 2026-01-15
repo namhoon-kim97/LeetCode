@@ -14,6 +14,7 @@
 | [0051-n-queens](https://github.com/namhoon-kim97/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/namhoon-kim97/LeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/namhoon-kim97/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/namhoon-kim97/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/namhoon-kim97/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/namhoon-kim97/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/namhoon-kim97/LeetCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/namhoon-kim97/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Math
@@ -144,6 +146,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/namhoon-kim97/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/namhoon-kim97/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/namhoon-kim97/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0221-maximal-square](https://github.com/namhoon-kim97/LeetCode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Tree
