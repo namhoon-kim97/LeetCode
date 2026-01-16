@@ -25,6 +25,7 @@
 | [0169-majority-element](https://github.com/namhoon-kim97/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/namhoon-kim97/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/namhoon-kim97/LeetCode/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/namhoon-kim97/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0221-maximal-square](https://github.com/namhoon-kim97/LeetCode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/namhoon-kim97/LeetCode/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/namhoon-kim97/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/namhoon-kim97/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/namhoon-kim97/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/namhoon-kim97/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Math
@@ -217,6 +219,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/namhoon-kim97/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/namhoon-kim97/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/namhoon-kim97/LeetCode/tree/master/0413-arithmetic-slices) |
 ## Bit Manipulation
@@ -258,4 +261,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/namhoon-kim97/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/namhoon-kim97/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
