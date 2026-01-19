@@ -14,6 +14,7 @@ public:
         }
     }
     vector<vector<int>> combine(int n, int k) {
+        ret.reserve(100000);
         N = n;
         K = k;
         vector<int> temp;
