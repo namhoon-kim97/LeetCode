@@ -160,6 +160,7 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/namhoon-kim97/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/namhoon-kim97/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/namhoon-kim97/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/namhoon-kim97/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/namhoon-kim97/LeetCode/tree/master/0112-path-sum) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/namhoon-kim97/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/namhoon-kim97/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/namhoon-kim97/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/namhoon-kim97/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0113-path-sum-ii) |
@@ -177,6 +179,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/namhoon-kim97/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/namhoon-kim97/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/namhoon-kim97/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/namhoon-kim97/LeetCode/tree/master/0200-number-of-islands) |
@@ -185,6 +188,7 @@
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/namhoon-kim97/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/namhoon-kim97/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/namhoon-kim97/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/namhoon-kim97/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/namhoon-kim97/LeetCode/tree/master/0112-path-sum) |
