@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/namhoon-kim97/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/namhoon-kim97/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/namhoon-kim97/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/namhoon-kim97/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/namhoon-kim97/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/namhoon-kim97/LeetCode/tree/master/0051-n-queens) |
@@ -143,6 +144,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/namhoon-kim97/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/namhoon-kim97/LeetCode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/namhoon-kim97/LeetCode/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/namhoon-kim97/LeetCode/tree/master/0093-restore-ip-addresses) |
