@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/namhoon-kim97/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/namhoon-kim97/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/namhoon-kim97/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/namhoon-kim97/LeetCode/tree/master/0027-remove-element) |
@@ -130,6 +131,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/namhoon-kim97/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/namhoon-kim97/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/namhoon-kim97/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/namhoon-kim97/LeetCode/tree/master/0073-set-matrix-zeroes) |
