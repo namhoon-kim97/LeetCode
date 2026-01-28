@@ -64,6 +64,7 @@
 | [0088-merge-sorted-array](https://github.com/namhoon-kim97/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/namhoon-kim97/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/namhoon-kim97/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/namhoon-kim97/LeetCode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/namhoon-kim97/LeetCode/tree/master/0274-h-index) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Binary Search
@@ -99,6 +100,7 @@
 | [0139-word-break](https://github.com/namhoon-kim97/LeetCode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/namhoon-kim97/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/namhoon-kim97/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/namhoon-kim97/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/namhoon-kim97/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/namhoon-kim97/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/namhoon-kim97/LeetCode/tree/master/0392-is-subsequence) |
@@ -140,6 +142,7 @@
 | [0146-lru-cache](https://github.com/namhoon-kim97/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/namhoon-kim97/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/namhoon-kim97/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/namhoon-kim97/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/namhoon-kim97/LeetCode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/namhoon-kim97/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/namhoon-kim97/LeetCode/tree/master/0383-ransom-note) |
