@@ -112,6 +112,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/namhoon-kim97/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/namhoon-kim97/LeetCode/tree/master/0067-add-binary) |
+| [2069-walking-robot-simulation-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -230,6 +231,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/namhoon-kim97/LeetCode/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/namhoon-kim97/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [2069-walking-robot-simulation-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
