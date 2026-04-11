@@ -317,4 +317,8 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/namhoon-kim97/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/namhoon-kim97/LeetCode/tree/master/0200-number-of-islands) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/namhoon-kim97/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
