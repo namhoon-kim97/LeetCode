@@ -41,6 +41,7 @@
 | [0413-arithmetic-slices](https://github.com/namhoon-kim97/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0909-snakes-and-ladders](https://github.com/namhoon-kim97/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1929-concatenation-of-array](https://github.com/namhoon-kim97/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -112,6 +113,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/namhoon-kim97/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/namhoon-kim97/LeetCode/tree/master/0067-add-binary) |
+| [1929-concatenation-of-array](https://github.com/namhoon-kim97/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2069-walking-robot-simulation-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 ## Dynamic Programming
 |  |
