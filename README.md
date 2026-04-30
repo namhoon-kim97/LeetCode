@@ -50,6 +50,7 @@
 | [0011-container-with-most-water](https://github.com/namhoon-kim97/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/namhoon-kim97/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/namhoon-kim97/LeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/namhoon-kim97/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/namhoon-kim97/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/namhoon-kim97/LeetCode/tree/master/0125-valid-palindrome) |
@@ -98,6 +99,7 @@
 | [0013-roman-to-integer](https://github.com/namhoon-kim97/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/namhoon-kim97/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/namhoon-kim97/LeetCode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/namhoon-kim97/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/namhoon-kim97/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/namhoon-kim97/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/namhoon-kim97/LeetCode/tree/master/0067-add-binary) |
@@ -334,4 +336,8 @@
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/namhoon-kim97/LeetCode/tree/master/0182-duplicate-emails) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/namhoon-kim97/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
