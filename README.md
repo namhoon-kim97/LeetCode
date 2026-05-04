@@ -16,6 +16,7 @@
 | [0049-group-anagrams](https://github.com/namhoon-kim97/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/namhoon-kim97/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/namhoon-kim97/LeetCode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/namhoon-kim97/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/namhoon-kim97/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/namhoon-kim97/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -87,6 +88,7 @@
 | [0013-roman-to-integer](https://github.com/namhoon-kim97/LeetCode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/namhoon-kim97/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/namhoon-kim97/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/namhoon-kim97/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/namhoon-kim97/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/namhoon-kim97/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/namhoon-kim97/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
