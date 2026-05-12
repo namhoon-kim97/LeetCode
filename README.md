@@ -42,6 +42,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/namhoon-kim97/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0413-arithmetic-slices](https://github.com/namhoon-kim97/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0909-snakes-and-ladders](https://github.com/namhoon-kim97/LeetCode/tree/master/0909-snakes-and-ladders) |
+| [0912-sort-an-array](https://github.com/namhoon-kim97/LeetCode/tree/master/0912-sort-an-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1929-concatenation-of-array](https://github.com/namhoon-kim97/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -72,6 +73,7 @@
 | [0169-majority-element](https://github.com/namhoon-kim97/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/namhoon-kim97/LeetCode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/namhoon-kim97/LeetCode/tree/master/0274-h-index) |
+| [0912-sort-an-array](https://github.com/namhoon-kim97/LeetCode/tree/master/0912-sort-an-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
@@ -255,10 +257,12 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/namhoon-kim97/LeetCode/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/namhoon-kim97/LeetCode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/namhoon-kim97/LeetCode/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/namhoon-kim97/LeetCode/tree/master/0912-sort-an-array) |
 ## Trie
 |  |
 | ------- |
@@ -276,6 +280,7 @@
 | [0169-majority-element](https://github.com/namhoon-kim97/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/namhoon-kim97/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/namhoon-kim97/LeetCode/tree/master/0912-sort-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -296,6 +301,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/namhoon-kim97/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0912-sort-an-array](https://github.com/namhoon-kim97/LeetCode/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -321,6 +327,7 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/namhoon-kim97/LeetCode/tree/master/0274-h-index) |
+| [0912-sort-an-array](https://github.com/namhoon-kim97/LeetCode/tree/master/0912-sort-an-array) |
 ## Randomized
 |  |
 | ------- |
@@ -342,4 +349,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/namhoon-kim97/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/namhoon-kim97/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
