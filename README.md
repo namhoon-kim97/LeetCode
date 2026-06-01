@@ -279,6 +279,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/namhoon-kim97/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/namhoon-kim97/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/namhoon-kim97/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/namhoon-kim97/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/namhoon-kim97/LeetCode/tree/master/0912-sort-an-array) |
@@ -292,6 +293,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/namhoon-kim97/LeetCode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/namhoon-kim97/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/namhoon-kim97/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/namhoon-kim97/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 ## Queue
