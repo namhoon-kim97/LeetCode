@@ -46,6 +46,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1929-concatenation-of-array](https://github.com/namhoon-kim97/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/namhoon-kim97/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0392-is-subsequence](https://github.com/namhoon-kim97/LeetCode/tree/master/0392-is-subsequence) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/namhoon-kim97/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/namhoon-kim97/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | [0274-h-index](https://github.com/namhoon-kim97/LeetCode/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/namhoon-kim97/LeetCode/tree/master/0912-sort-an-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/namhoon-kim97/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,6 +87,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/namhoon-kim97/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/namhoon-kim97/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
 |  |
 | ------- |
@@ -146,6 +150,7 @@
 | [0045-jump-game-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/namhoon-kim97/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/namhoon-kim97/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
