@@ -100,6 +100,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/namhoon-kim97/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/namhoon-kim97/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/namhoon-kim97/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/namhoon-kim97/LeetCode/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/namhoon-kim97/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
 |  |
@@ -301,6 +302,7 @@
 | [0190-reverse-bits](https://github.com/namhoon-kim97/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/namhoon-kim97/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/namhoon-kim97/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/namhoon-kim97/LeetCode/tree/master/0231-power-of-two) |
 ## Queue
 |  |
 | ------- |
@@ -361,4 +363,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/namhoon-kim97/LeetCode/tree/master/0912-sort-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/namhoon-kim97/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
