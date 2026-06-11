@@ -39,6 +39,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/namhoon-kim97/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/namhoon-kim97/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/namhoon-kim97/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0413-arithmetic-slices](https://github.com/namhoon-kim97/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0909-snakes-and-ladders](https://github.com/namhoon-kim97/LeetCode/tree/master/0909-snakes-and-ladders) |
@@ -62,6 +63,7 @@
 | [0189-rotate-array](https://github.com/namhoon-kim97/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/namhoon-kim97/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/namhoon-kim97/LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/namhoon-kim97/LeetCode/tree/master/0392-is-subsequence) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/namhoon-kim97/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -75,6 +77,7 @@
 | [0169-majority-element](https://github.com/namhoon-kim97/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/namhoon-kim97/LeetCode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/namhoon-kim97/LeetCode/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/namhoon-kim97/LeetCode/tree/master/0912-sort-an-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/namhoon-kim97/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -86,6 +89,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/namhoon-kim97/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/namhoon-kim97/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/namhoon-kim97/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
@@ -167,6 +171,7 @@
 | [0205-isomorphic-strings](https://github.com/namhoon-kim97/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/namhoon-kim97/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/namhoon-kim97/LeetCode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/namhoon-kim97/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/namhoon-kim97/LeetCode/tree/master/0383-ransom-note) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/namhoon-kim97/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
