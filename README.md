@@ -22,6 +22,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/namhoon-kim97/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/namhoon-kim97/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/namhoon-kim97/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/namhoon-kim97/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/namhoon-kim97/LeetCode/tree/master/0130-surrounded-regions) |
@@ -141,6 +142,7 @@
 | [0055-jump-game](https://github.com/namhoon-kim97/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/namhoon-kim97/LeetCode/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/namhoon-kim97/LeetCode/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/namhoon-kim97/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/namhoon-kim97/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/namhoon-kim97/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/namhoon-kim97/LeetCode/tree/master/0139-word-break) |
